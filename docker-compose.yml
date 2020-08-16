@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  service: :
+    image: react-ci-cd
+    ports:
+      - "1337:80"
